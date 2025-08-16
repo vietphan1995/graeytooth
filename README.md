@@ -16,6 +16,8 @@ Graeytooth device should have screen view to interact/setup connection with itse
 
 Graeytooth helps you indicate what device commute in one bluetooth connection in the age of electric device growth and protect your bluetooth connection in crowd that everyone owns many electric devices.
 
+![image.png](image.png)
+
 Example:
 
 You want to view what devices contected with your television like speaker, earpod, keyboard, …
@@ -24,7 +26,7 @@ You want to view one speaker connected with your television, or your phone, or y
 
 Other’s devices in your room or in public nearly place, in public place where has wifi internet or not, in printing/scan/fax room, in car player …
 
-![image.png](image.png)
+![image.png](image%201.png)
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
