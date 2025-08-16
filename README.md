@@ -4,7 +4,7 @@
 
 ### Introduce
 
-[https://github.com/vietphan1995/graytooth.git](https://github.com/vietphan1995/graytooth.git)
+[https://github.com/vietphan1995/graeytooth.git](https://github.com/vietphan1995/graeytooth.git)
 
 Graeytooth is a research to product project which adding lock bluetooth connection between two devices as one-on-one connection.
 
