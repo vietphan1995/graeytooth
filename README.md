@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/graeytooth.git](https://github.com/vietphan1995/graeytooth.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:graeytooth_project&body=left_your_idea)
+
 Graeytooth is a research to product project which adding lock bluetooth connection between two devices as one-on-one connection.
 
 Graeytooth device view can show information of connected devices with itself.
@@ -27,6 +29,8 @@ You want to view one speaker connected with your television, or your phone, or y
 Other’s devices in your room or in public nearly place, in public place where has wifi internet or not, in printing/scan/fax room, in car player …
 
 ![image.png](image%201.png)
+
+ .
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
