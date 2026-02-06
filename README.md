@@ -35,4 +35,4 @@ Other’s devices in your room or in public nearly place, in public place where 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/graeytooth-1bc5e832d6ee80cabeb5d7385c25be7e
+https://maianhcorporation.notion.site/graeytooth-1bc5e832d6ee80cabeb5d7385c25be7e
